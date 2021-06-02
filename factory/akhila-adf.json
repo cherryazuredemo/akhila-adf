@@ -1,0 +1,9 @@
+{
+	"name": "akhila-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c69b799-874b-4675-9495-06e2cc731183",
+		"tenantId": "79106477-d294-4344-8352-ed8d07aebb84"
+	}
+}
