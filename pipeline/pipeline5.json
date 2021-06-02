@@ -19,7 +19,7 @@
 						"type": "DelimitedTextSource",
 						"storeSettings": {
 							"type": "AzureBlobStorageReadSettings",
-							"fileListPath": "input/input/India Vrkt Employee agreement.docx",
+							"recursive": true,
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
